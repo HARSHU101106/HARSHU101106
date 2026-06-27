@@ -30,8 +30,7 @@ I'm a third-year AI student building production-ready systems at the intersectio
 
 I care about building things that actually work in production — not just demos.
 
-- 🔭 &nbsp;Currently building **EduPathAI** — a personalized learning path agent on Azure AI Foundry
-- 🤖 &nbsp;Working with **Azure OpenAI**, **LangGraph**, **FastAPI**, and **Cosmos DB** day-to-day
+- 🤖 &nbsp;Working with **AI/ML**, **Full Stack Development**, **Python**, and **Web Development** day-to-day
 - 🎓 &nbsp;Pursuing **BS in Data Science & Applications** at IIT Madras alongside my CS degree
 - 🏆 &nbsp;Competed in Microsoft AI Skills Fest · Smart India Hackathon · Odoo Hackathon
 - 🎯 &nbsp;Goal: AI/Data Science role at Microsoft by mid-2027
@@ -42,59 +41,31 @@ I care about building things that actually work in production — not just demos
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### AI / ML / Agents
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Cloud & Backend
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-003366?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
 ### Frontend & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML-5](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=HTML-5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Tools & Platforms
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🚀 Featured projects
-
-### [EduPathAI](https://github.com/HARSHU10110) &nbsp; [![Azure](https://img.shields.io/badge/Azure-deployed-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/HARSHU10110)
-> Personalized AI learning path agent built for the **Microsoft AI Skills Fest — Agents League Contest**
-
-A production-deployed agentic system that analyzes a learner's goals and generates structured, personalized study roadmaps. Built end-to-end on Azure — from AI inference to storage to deployment.
-
-`Azure AI Foundry` `FastAPI` `Next.js` `Azure OpenAI` `Cosmos DB` `Azure Blob Storage` `Azure Container Apps`
-
----
-
-### [Business Operating System (BOS)](https://github.com/HARSHU10110)
-> Full-stack business management web app — currently in production
-
-A deployed fullstack application with dashboards, workflows, and automation. Built with an agent-based tooling approach; recently underwent a full UI audit resolving contrast, layout, and overflow issues.
-
-`Next.js` `FastAPI` `TypeScript` `Tailwind CSS`
-
----
 
 ### [Parlour & Boutique App](https://github.com/HARSHU10110)
 > Mobile app for a family beauty parlour and boutique business
