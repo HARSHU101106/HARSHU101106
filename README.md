@@ -1,135 +1,163 @@
-<h1 align="center">Hi 👋, I'm Harshini S</h1>
-<h3 align="center">AI Developer | Computer Science Student | Full Stack Learner | ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Harshini S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+  <b>Agentic AI Developer &nbsp;·&nbsp; B.Sc AI @ SDNB Vaishnav &nbsp;·&nbsp; BS Data Science @ IIT Madras</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI+agents+that+actually+ship;Azure+AI+Foundry+%7C+FastAPI+%7C+Next.js;Agentic+AI+%7C+LLM+Applications+%7C+MLOps;Open+to+collaborations+and+internships" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshinis06" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-harshinis06-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:harshinisuresh2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshinisuresh2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/HARSHU10110" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HARSHU10110-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About me
 
-🎓 B.Sc Computer Science (Artificial Intelligence) Student
+I'm a third-year AI student building production-ready systems at the intersection of agentic AI, cloud platforms, and full-stack development. Currently interning as an **Agentic AI Developer at StudAiOne**, where I design and ship AI agent workflows, API backends, and cloud deployments on Azure.
 
-🎓 BS in Data Science and Applications - IIT Madras
+I care about building things that actually work in production — not just demos.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Computer Vision
-
-🌱 Currently learning
-- Full Stack Development
-- Agentic AI
-- LLM Applications
-- Cloud Technologies
-
-💼 AI Developer Intern
-
-🚀 I enjoy building projects that solve real-world problems.
+- 🔭 &nbsp;Currently building **EduPathAI** — a personalized learning path agent on Azure AI Foundry
+- 🤖 &nbsp;Working with **Azure OpenAI**, **LangGraph**, **FastAPI**, and **Cosmos DB** day-to-day
+- 🎓 &nbsp;Pursuing **BS in Data Science & Applications** at IIT Madras alongside my CS degree
+- 🏆 &nbsp;Competed in Microsoft AI Skills Fest · Smart India Hackathon · Odoo Hackathon
+- 🎯 &nbsp;Goal: AI/Data Science role at Microsoft by mid-2027
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
+### AI / ML / Agents
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Cloud & Backend
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-003366?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 Smart Disaster Response Rover
-IoT-powered autonomous rover capable of detecting hazardous environments using sensors and real-time monitoring.
-
----
-
-### 😀 Face Recognition Attendance System
-Automated attendance system using OpenCV and Machine Learning.
-
----
-
-### 💬 LLM Chatbot
-Interactive chatbot built with Python, Streamlit and OpenAI API.
+### Tools & Platforms
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 🎨 Mood-Based Art Generator
-Emotion recognition system that generates artwork based on facial expressions.
+## 🚀 Featured projects
+
+### [EduPathAI](https://github.com/HARSHU10110) &nbsp; [![Azure](https://img.shields.io/badge/Azure-deployed-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/HARSHU10110)
+> Personalized AI learning path agent built for the **Microsoft AI Skills Fest — Agents League Contest**
+
+A production-deployed agentic system that analyzes a learner's goals and generates structured, personalized study roadmaps. Built end-to-end on Azure — from AI inference to storage to deployment.
+
+`Azure AI Foundry` `FastAPI` `Next.js` `Azure OpenAI` `Cosmos DB` `Azure Blob Storage` `Azure Container Apps`
 
 ---
 
-## 🏆 Achievements
+### [Business Operating System (BOS)](https://github.com/HARSHU10110)
+> Full-stack business management web app — currently in production
 
-🥈 2nd Place - Coding Competition
+A deployed fullstack application with dashboards, workflows, and automation. Built with an agent-based tooling approach; recently underwent a full UI audit resolving contrast, layout, and overflow issues.
 
-🥉 3rd Place - Coding Competition
+`Next.js` `FastAPI` `TypeScript` `Tailwind CSS`
 
-💡 Participant
-- Smart India Hackathon
-- Odoo Hackathon
-- Smart Ideathon
+---
+
+### [Parlour & Boutique App](https://github.com/HARSHU10110)
+> Mobile app for a family beauty parlour and boutique business
+
+A React Native app featuring appointment booking, inventory management, and a custom instalment-based payment system integrated with Razorpay.
+
+`React Native` `Expo` `TypeScript` `Firebase` `Razorpay` `Zustand` `NativeWind`
+
+---
+
+### [Smart Disaster Response Rover](https://github.com/HARSHU10110)
+> IoT-powered autonomous rover for hazardous environment detection
+
+Detects dangerous gases, temperature anomalies, and terrain using onboard sensors with real-time monitoring and alerting.
+
+`IoT` `Python` `Sensors` `Real-time Monitoring`
+
+---
+
+### [Face Recognition Attendance System](https://github.com/HARSHU10110)
+> Automated attendance using computer vision
+
+Detects and recognizes faces in real-time using OpenCV and ML classifiers, logs attendance to a database, and generates reports.
+
+`Python` `OpenCV` `Machine Learning` `SQL`
+
+---
+
+## 🏆 Achievements & competitions
+
+| Event | Result |
+|---|---|
+| Microsoft AI Skills Fest — Agents League Contest | Contestant · Targeting Top Student Award |
+| Smart India Hackathon | Participant |
+| Odoo Hackathon | Participant |
+| Smart Ideathon | Participant |
+| Internal Coding Competitions | 🥈 2nd Place · 🥉 3rd Place |
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Applied Skills (12 Certifications)
-- NSDC Software Engineering
-- NSDC Power BI Visualization
-- EF SET English C2
-- AI
-- Machine Learning
-- Cloud Computing
-- Cybersecurity
-- UI/UX
+- **Microsoft Applied Skills** — 12 certifications (Azure AI, Cloud, Security)
+- **NSDC** — Software Engineering · Power BI Visualization
+- **EF SET** — English C2 (Proficient)
+- AI · Machine Learning · Cloud Computing · Cybersecurity · UI/UX
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HARSHU10110&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHU10110&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHU10110&layout=compact&theme=tokyonight"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HARSHU101106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHU101106&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHU101106&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-📧 Email: harshinisuresh2006@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/harshinis06
-
-🐙 GitHub: https://github.com/HARSHU10110
-
----
-
-## 💡 Quote
-
-> "Keep Building. Keep Learning. Keep Growing."
-
----
-
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+  <i>Open to AI/ML internships, research collaborations, and open-source contributions.</i><br/>
+  <b>Let's build something real.</b>
 </p>
